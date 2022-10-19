@@ -1,5 +1,6 @@
     let num=1221;   
     let rem = 0;
+    let rev = 0;
     let temp=num
     
     while(num>0){
