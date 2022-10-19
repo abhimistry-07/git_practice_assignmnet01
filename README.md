@@ -1,2 +1,2 @@
-# git_practice_assignmnet001
+# git_practice_assignmnet01
 Assignment on Prime Problem and Palindrome problem
