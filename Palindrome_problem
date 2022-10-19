@@ -1,12 +1,11 @@
-    let rem = 1;
+    let num=1221;   
+    let rem = 0;
     let temp=num
-    let rev = 1;
     
     while(num>0){
         rem=num%10;
-        num=Math.floor(num/10);
         rev=rev*10+rem;
-       
+        num=Math.floor(num/10);  
     }
     if(rev==temp){
         console.log("Yes");
